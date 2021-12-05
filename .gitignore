@@ -115,3 +115,4 @@ dmypy.json
 
 # any Microsoft Office Secondary Files
 ~$*
+notification_bot/flask_test.py
