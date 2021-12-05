@@ -1,2 +1,5 @@
 python-telegram-bot
 python-dateutil
+python-dotenv
+yfinance
+requests
