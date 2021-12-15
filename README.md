@@ -9,3 +9,4 @@
 * Python Telegram Bot Documentation - https://python-telegram-bot.readthedocs.io/en/stable/index.html 
 * yfinance Documentation - https://pypi.org/project/yfinance/ 
 * RegEx Guide - https://www.w3schools.com/python/python_regex.asp
+* New Edits
